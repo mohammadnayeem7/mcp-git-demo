@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "git-mcp": {
+      "command": "python",
+      "args": ["c:\\Users\\nayee\\projects\\mcp-git-demo\\server.py"]
+    }
+  }
+}
